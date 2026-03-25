@@ -2,9 +2,10 @@
 
 ### 🎈 Fun Facts:
 <ul>
-  <li> 💻 I've contributed to open-source repositories for video games like World of Warcraft addons. Check my pins! 📌 </li>
+  <li> 🤞 I want to do more developing this year. Both in code and in my real life. </li>
+  <li> 📌 I've contributed to open-source repositories for video games like World of Warcraft addons. Check my pins! </li>
   <li> 👾 I spend my down time playing video games. I also moderate and help organize a local LAN party every year. </li>
-  <li> 🏒 I am a hockey fan. My favorite teams are the San Jose Sharks & Seattle Kraken. 🦈 </li>
+  <li> 🏒 I am a hockey fan. My favorite teams are the San Jose Sharks & Seattle Kraken. </li>
 </ul>
 
 <details>
